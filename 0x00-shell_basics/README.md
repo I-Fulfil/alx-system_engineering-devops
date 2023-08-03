@@ -6,3 +6,4 @@
 5. Task (I love numbers): To display current directory contents, in long format, with user and group IDs displayed numerically, and hidden files (starting with .)
 6. Task (Welcome): Create a script that creates a directory named "my_first_directory" in the /tmp/ directory
 7. Task (Betty in my first directory): Write a script to, move the file betty from /tmp/ to /tmp/my_first_directory
+8. Task (Bye bye Betty): Write a script that deletes a file betty in /tmp/my_first_directory
