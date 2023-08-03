@@ -8,3 +8,4 @@
 7. Task (Betty in my first directory): Write a script to, move the file betty from /tmp/ to /tmp/my_first_directory
 8. Task (Bye bye Betty): Write a script that deletes a file betty in /tmp/my_first_directory
 9. Task (Bye bye My first directory): Write a script to delete the directory my_first_directory that is in the /tmp directory
+10. Task (Back to the future): Write a script that changes the working directory to the previous one.
